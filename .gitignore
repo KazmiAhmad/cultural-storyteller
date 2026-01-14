@@ -1,0 +1,7 @@
+.env
+app.py
+test.py
+*.mp4
+*.wav
+*.txt
+__pycache__/
